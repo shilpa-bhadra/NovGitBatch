@@ -9,6 +9,9 @@ public class TestDemoOne {
 		
 		System.out.println("TestDemoOne");
 
+System.out.println("Person2 updates");
+
+System.out.println("Person2 updates again ");
 	}
 	
 	
