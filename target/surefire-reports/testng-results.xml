@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="267" started-at="2021-11-24T21:11:48 IST" finished-at="2021-11-24T21:11:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="267" started-at="2021-11-24T21:11:48 IST" finished-at="2021-11-24T21:11:49 IST">
+      <class name="demo2.mavendemo.TestDemoTwo">
+        <test-method status="PASS" signature="demoTwo()[pri:0, instance:demo2.mavendemo.TestDemoTwo@21213b92]" name="demoTwo" duration-ms="36" started-at="2021-11-24T21:11:49 IST" finished-at="2021-11-24T21:11:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTwo -->
+      </class> <!-- demo2.mavendemo.TestDemoTwo -->
+      <class name="demo2.mavendemo.TestDemoOne">
+        <test-method status="PASS" signature="demoOne()[pri:0, instance:demo2.mavendemo.TestDemoOne@20398b7c]" name="demoOne" duration-ms="0" started-at="2021-11-24T21:11:49 IST" finished-at="2021-11-24T21:11:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoOne -->
+      </class> <!-- demo2.mavendemo.TestDemoOne -->
+      <class name="demo2.mavendemo.TestDemoThree">
+        <test-method status="PASS" signature="demoThree()[pri:0, instance:demo2.mavendemo.TestDemoThree@6fc6f14e]" name="demoThree" duration-ms="1" started-at="2021-11-24T21:11:49 IST" finished-at="2021-11-24T21:11:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoThree -->
+      </class> <!-- demo2.mavendemo.TestDemoThree -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
